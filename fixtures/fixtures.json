@@ -1,0 +1,553 @@
+[
+  {
+    "model": "articles.comment",
+    "pk": 1,
+    "fields": {
+      "article": 12,
+      "message": "Коммент",
+      "source": "web"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 2,
+    "fields": {
+      "article": 12,
+      "message": "Коммент",
+      "source": "mobile"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 3,
+    "fields": {
+      "article": 12,
+      "message": "Коммент",
+      "source": "web"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 4,
+    "fields": {
+      "article": 10,
+      "message": "Коммент",
+      "source": "web"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 5,
+    "fields": {
+      "article": 9,
+      "message": "Комментарий",
+      "source": "mobile"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 6,
+    "fields": {
+      "article": 7,
+      "message": "Комментарий",
+      "source": "web"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 7,
+    "fields": {
+      "article": 6,
+      "message": "Комментарий",
+      "source": "mobile"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 8,
+    "fields": {
+      "article": 4,
+      "message": "Комментарий",
+      "source": "mobile"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 9,
+    "fields": {
+      "article": 2,
+      "message": "Комментарий",
+      "source": "mobile"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 10,
+    "fields": {
+      "article": 2,
+      "message": "Комментарий",
+      "source": "mobile"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 11,
+    "fields": {
+      "article": 2,
+      "message": "Комментарий",
+      "source": "mobile"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 12,
+    "fields": {
+      "article": 1,
+      "message": "Комментарий",
+      "source": "web"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 13,
+    "fields": {
+      "article": 1,
+      "message": "Комментарий",
+      "source": "web"
+    }
+  },
+  {
+    "model": "articles.comment",
+    "pk": 14,
+    "fields": {
+      "article": 1,
+      "message": "Комментарий",
+      "source": "web"
+    }
+  },
+  {
+    "model": "articles.rating",
+    "pk": 1,
+    "fields": {
+      "article": 12,
+      "rate": 5,
+      "source": "web"
+    }
+  },
+  {
+    "model": "articles.rating",
+    "pk": 2,
+    "fields": {
+      "article": 12,
+      "rate": 4,
+      "source": "web"
+    }
+  },
+  {
+    "model": "articles.rating",
+    "pk": 3,
+    "fields": {
+      "article": 12,
+      "rate": 3,
+      "source": "mobile"
+    }
+  },
+  {
+    "model": "articles.rating",
+    "pk": 4,
+    "fields": {
+      "article": 10,
+      "rate": 5,
+      "source": "web"
+    }
+  },
+  {
+    "model": "articles.rating",
+    "pk": 5,
+    "fields": {
+      "article": 9,
+      "rate": 5,
+      "source": "mobile"
+    }
+  },
+  {
+    "model": "articles.rating",
+    "pk": 6,
+    "fields": {
+      "article": 8,
+      "rate": 4,
+      "source": "mobile"
+    }
+  },
+  {
+    "model": "articles.rating",
+    "pk": 7,
+    "fields": {
+      "article": 8,
+      "rate": 3,
+      "source": "mobile"
+    }
+  },
+  {
+    "model": "articles.rating",
+    "pk": 8,
+    "fields": {
+      "article": 8,
+      "rate": 5,
+      "source": "mobile"
+    }
+  },
+  {
+    "model": "articles.rating",
+    "pk": 9,
+    "fields": {
+      "article": 8,
+      "rate": 5,
+      "source": "mobile"
+    }
+  },
+  {
+    "model": "articles.rating",
+    "pk": 10,
+    "fields": {
+      "article": 7,
+      "rate": 1,
+      "source": "web"
+    }
+  },
+  {
+    "model": "articles.rating",
+    "pk": 11,
+    "fields": {
+      "article": 7,
+      "rate": 1,
+      "source": "mobile"
+    }
+  },
+  {
+    "model": "articles.rating",
+    "pk": 12,
+    "fields": {
+      "article": 7,
+      "rate": 2,
+      "source": "mobile"
+    }
+  },
+  {
+    "model": "articles.rating",
+    "pk": 13,
+    "fields": {
+      "article": 6,
+      "rate": 5,
+      "source": "web"
+    }
+  },
+  {
+    "model": "articles.rating",
+    "pk": 14,
+    "fields": {
+      "article": 6,
+      "rate": 4,
+      "source": "web"
+    }
+  },
+  {
+    "model": "articles.rating",
+    "pk": 15,
+    "fields": {
+      "article": 4,
+      "rate": 4,
+      "source": "web"
+    }
+  },
+  {
+    "model": "articles.rating",
+    "pk": 16,
+    "fields": {
+      "article": 4,
+      "rate": 4,
+      "source": "mobile"
+    }
+  },
+  {
+    "model": "articles.rating",
+    "pk": 17,
+    "fields": {
+      "article": 1,
+      "rate": 3,
+      "source": "mobile"
+    }
+  },
+  {
+    "model": "articles.author",
+    "pk": 1,
+    "fields": {
+      "full_name": "Иванов Иван Иванович",
+      "dob": "2000-01-17"
+    }
+  },
+  {
+    "model": "articles.author",
+    "pk": 2,
+    "fields": {
+      "full_name": "Сидельников Петр Леонидович",
+      "dob": "1996-03-17"
+    }
+  },
+  {
+    "model": "articles.author",
+    "pk": 3,
+    "fields": {
+      "full_name": "Курпатина Екатерина Александровна",
+      "dob": "1991-11-12"
+    }
+  },
+  {
+    "model": "articles.author",
+    "pk": 4,
+    "fields": {
+      "full_name": "Криовшеев Сергей Юрьевич",
+      "dob": "1993-04-22"
+    }
+  },
+  {
+    "model": "articles.author",
+    "pk": 5,
+    "fields": {
+      "full_name": "Серебряков Кирилл Павлович",
+      "dob": "1985-09-03"
+    }
+  },
+  {
+    "model": "articles.authorinfo",
+    "pk": 1,
+    "fields": {
+      "email": "i.ivanov@admin.ru",
+      "phone": null
+    }
+  },
+  {
+    "model": "articles.authorinfo",
+    "pk": 2,
+    "fields": {
+      "email": null,
+      "phone": "+79888888811"
+    }
+  },
+  {
+    "model": "articles.authorinfo",
+    "pk": 3,
+    "fields": {
+      "email": "super_star@mail.ru",
+      "phone": "+79999999994"
+    }
+  },
+  {
+    "model": "articles.article",
+    "pk": 1,
+    "fields": {
+      "author": 1,
+      "title": "Интернет-торговля набирает популярность во всем мире",
+      "text": "Интернет-торговля набирает популярность во всем мире. Удобство онлайн-покупок привлекает все большее количество потребителей.",
+      "publish_date": "2024-01-05",
+      "tags": [
+        "sport",
+        "travel"
+      ]
+    }
+  },
+  {
+    "model": "articles.article",
+    "pk": 2,
+    "fields": {
+      "author": 1,
+      "title": "Искусственный интеллект (ИИ) быстро развивается",
+      "text": "Искусственный интеллект (ИИ) быстро развивается и оказывает существенное влияние на различные отрасли. ИИ-приложения автоматизируют задачи и улучшают принятие решений.",
+      "publish_date": "2024-01-17",
+      "tags": [
+        "dev",
+        "finance"
+      ]
+    }
+  },
+  {
+    "model": "articles.article",
+    "pk": 3,
+    "fields": {
+      "author": 2,
+      "title": "Облачные вычисления стали важным инструментом для предприятий всех размеров",
+      "text": "Облачные вычисления стали важным инструментом для предприятий всех размеров. Облачные платформы предоставляют гибкость, масштабируемость и снижают затраты на ИТ.",
+      "publish_date": "2024-02-02",
+      "tags": [
+        "dev"
+      ]
+    }
+  },
+  {
+    "model": "articles.article",
+    "pk": 4,
+    "fields": {
+      "author": 2,
+      "title": "Виртуальная реальность (VR) и дополненная реальность (AR) становятся все более популярными",
+      "text": "Виртуальная реальность (VR) и дополненная реальность (AR) становятся все более популярными. Эти технологии создают захватывающие и интерактивные пользовательские впечатления.",
+      "publish_date": "2023-02-07",
+      "tags": [
+        "finance",
+        "travel"
+      ]
+    }
+  },
+  {
+    "model": "articles.article",
+    "pk": 5,
+    "fields": {
+      "author": 3,
+      "title": "Интернет вещей (IoT) соединяет физические устройства с интернетом",
+      "text": "Интернет вещей (IoT) соединяет физические устройства с интернетом. Это позволяет дистанционно контролировать и управлять устройствами, улучшая эффективность и удобство.",
+      "publish_date": "2023-05-11",
+      "tags": [
+        "dev",
+        "travel"
+      ]
+    }
+  },
+  {
+    "model": "articles.article",
+    "pk": 6,
+    "fields": {
+      "author": 3,
+      "title": "Кибербезопасность имеет решающее значение в современном цифровом мире",
+      "text": "Кибербезопасность имеет решающее значение в современном цифровом мире. Она защищает системы и данные от кибератак, обеспечивая конфиденциальность и целостность.",
+      "publish_date": "2023-07-17",
+      "tags": [
+        "finance",
+        "sport",
+        "travel"
+      ]
+    }
+  },
+  {
+    "model": "articles.article",
+    "pk": 7,
+    "fields": {
+      "author": 4,
+      "title": "Маркетинг в социальных сетях является мощным инструментом для предприятий",
+      "text": "Маркетинг в социальных сетях является мощным инструментом для предприятий, стремящихся охватить целевую аудиторию. Платформы социальных сетей предоставляют возможности для построения бренда, генерации лидов и повышения вовлеченности.",
+      "publish_date": "2023-12-27",
+      "tags": [
+        "travel"
+      ]
+    }
+  },
+  {
+    "model": "articles.article",
+    "pk": 8,
+    "fields": {
+      "author": 4,
+      "title": "локчейн - это распределенная технология",
+      "text": "локчейн - это распределенная технология, которая революционизирует различные отрасли. Блокчейн обеспечивает безопасность, прозрачность и эффективность для различных приложений.",
+      "publish_date": "2024-03-22",
+      "tags": [
+        "finance",
+        "travel"
+      ]
+    }
+  },
+  {
+    "model": "articles.article",
+    "pk": 9,
+    "fields": {
+      "author": 5,
+      "title": "Управление цепочками поставок становится все более сложным",
+      "text": "Управление цепочками поставок становится все более сложным. Интегрированные решения управления цепочками поставок оптимизируют процессы, сокращают затраты и улучшают видимость.",
+      "publish_date": "2024-04-04",
+      "tags": [
+        "dev",
+        "finance"
+      ]
+    }
+  },
+  {
+    "model": "articles.article",
+    "pk": 10,
+    "fields": {
+      "author": 5,
+      "title": "Разработка программного обеспечения методом Agile",
+      "text": "Разработка программного обеспечения методом Agile позволяет командам создавать и выпускать продукты с большей гибкостью и скоростью. Этот подход сосредоточен на сотрудничестве, быстрой обратной связи и постоянном улучшении.",
+      "publish_date": "2024-05-17",
+      "tags": [
+        "dev"
+      ]
+    }
+  },
+  {
+    "model": "articles.article",
+    "pk": 11,
+    "fields": {
+      "author": 5,
+      "title": "Большие данные - это огромные наборы данных",
+      "text": "Большие данные - это огромные наборы данных, которые анализируются для получения ценных идей. Анализ больших данных помогает предприятиям принимать обоснованные решения, улучшать операции и предсказывать будущие тенденции.",
+      "publish_date": "2024-04-07",
+      "tags": [
+        "sport",
+        "travel"
+      ]
+    }
+  },
+  {
+    "model": "articles.article",
+    "pk": 12,
+    "fields": {
+      "author": 4,
+      "title": "Использование облачных сервисов стало повсеместным",
+      "text": "Использование облачных сервисов стало повсеместным. Облачные сервисы предоставляют доступ к мощным вычислительным ресурсам и программному обеспечению без необходимости инвестировать в собственную инфраструктуру.",
+      "publish_date": "2022-07-23",
+      "tags": [
+        "dev",
+        "travel"
+      ]
+    }
+  },
+  {
+    "model": "articles.source",
+    "pk": "mobile",
+    "fields": {
+      "name": "Мобильная версия"
+    }
+  },
+  {
+    "model": "articles.source",
+    "pk": "web",
+    "fields": {
+      "name": "Web версия"
+    }
+  },
+  {
+    "model": "articles.tag",
+    "pk": "dev",
+    "fields": {
+      "name": "Разработка"
+    }
+  },
+  {
+    "model": "articles.tag",
+    "pk": "finance",
+    "fields": {
+      "name": "Фмнансы"
+    }
+  },
+  {
+    "model": "articles.tag",
+    "pk": "sport",
+    "fields": {
+      "name": "Спорт"
+    }
+  },
+  {
+    "model": "articles.tag",
+    "pk": "travel",
+    "fields": {
+      "name": "Путешествия"
+    }
+  }
+]

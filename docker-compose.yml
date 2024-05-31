@@ -1,0 +1,30 @@
+version: '3.11'
+
+services:
+  web:
+    container_name: articles_web
+    restart: unless-stopped
+    build: ./
+    command: python manage.py runserver 0.0.0.0:8000
+    volumes:
+      - ./:/app/
+    ports:
+      - 8000:8000
+    depends_on:
+      - db
+  db:
+      restart: unless-stopped
+      image: postgres:14.11-alpine
+      container_name: articles_db
+      volumes:
+        - articles_pg_data:/var/lib/postgresql/data/
+      environment:
+        - POSTGRES_USER=postgres
+        - POSTGRES_PASSWORD=postgres
+        - POSTGRES_DB=postgres
+      expose:
+        - 5432:5432
+      ports:
+        - 5544:5432
+volumes:
+  articles_pg_data:
